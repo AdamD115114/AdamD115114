@@ -1,6 +1,6 @@
 # Howdy! 👋
 
-# Metrics! 🥇
+# Some Stats on my Github Account! 🥇
 ![Metrics](/github-metrics.svg)
 
 # Trophies! 🏆
